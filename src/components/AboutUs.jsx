@@ -62,7 +62,7 @@ const AboutUs = () => {
 
                     <div className="flex flex-col md:flex-row gap-10 md:gap-20 items-center md:px-8 py-8">
                         <div className="relative justify-center items-center hidden md:flex">
-                            <div className="w-52 h-36"></div>
+                            <div className="w-52 h-28 sm:w-64 sm:h-28"></div>
                         </div>
 
                         <div className="flex-1 text-base leading-6 flex flex-row md:flex-col sm:gap-4 gap-0">
